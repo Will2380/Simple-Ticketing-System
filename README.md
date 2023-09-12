@@ -16,7 +16,6 @@ The "Python Ticketing System Simulation" is a practice project that simulates th
   - [Viewing Tickets](#viewing-tickets)
   - [Closing a Ticket](#closing-a-ticket)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
