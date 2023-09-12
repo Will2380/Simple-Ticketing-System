@@ -1,8 +1,5 @@
-Certainly! Here's a detailed README for your "Python Ticketing System Simulation" project:
 
----
-
-# Python Ticketing System Simulation
+# Simple-Ticketing-System Simulation (Python)
 
 The "Python Ticketing System Simulation" is a practice project that simulates the basic functionalities of a ticketing system. This project allows users to practice creating, viewing, and closing support tickets through a command-line interface. It serves as an educational tool for learning about ticketing systems and Python programming.
 
@@ -54,13 +51,13 @@ Before you can run this simulation, you need the following:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/python-ticketing-simulation.git
+   git clone https://github.com/Will2380/Simple-Ticketing-System.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd python-ticketing-simulation
+   cd Simple-Ticketing-System
    ```
 
 3. Run the simulation:
